@@ -1,6 +1,6 @@
 1. Newton Second Law
 
-Pseudocode :
+Pseudocode:
 
   STORE "massa" with 600 kg
   STORE "percepatan" with 2 m/s^2
@@ -15,7 +15,7 @@ Pseudocode :
 
 2. Tahun Kabisat
 
-Pseudocode :
+Pseudocode:
 
   STORE "tahun" with any number value
   IF "tahun" mod 4 equal to 0, "tahun" mod 100 larger than 0
@@ -29,7 +29,7 @@ Pseudocode :
 
 3. Laundry Day
 
-Pseudocode :
+Pseudocode:
 
   STORE "jumlah pakaian" with 20
   STORE "jumlah pakaian dimasukkan " with 0
@@ -45,7 +45,7 @@ Pseudocode :
 
 4. Periksa Kuku
 
-Pseudocode :
+Pseudocode:
 
   STORE "jumlah siswa" with 40
   STORE "i" with 1
