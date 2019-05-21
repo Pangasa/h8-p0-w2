@@ -12,7 +12,6 @@ Pseudocode:
   DISPLAY "resultan gaya"
 
 
-
 2. Tahun Kabisat
 
 Pseudocode:
@@ -42,7 +41,6 @@ Pseudocode:
   DO "nyalakan mesin cuci"
 
 
-
 4. Periksa Kuku
 
 Pseudocode:
@@ -55,4 +53,8 @@ Pseudocode:
       DO "hukum siswa[i]"
     ELSE
       DO "puji siswa[i]"
-ADD "i" by 1
+  
+  ADD "i" by 1
+
+
+-------------------------------
