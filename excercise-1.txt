@@ -1,0 +1,58 @@
+1. Newton Second Law
+
+Pseudocode :
+
+  STORE "massa" with 600 kg
+  STORE "percepatan" with 2 m/s^2
+  STORE "resultan gaya" without any value
+
+  CALCULATE "massa" multiply "percepatan"
+  SET "resultan gaya" with calculation result
+
+  DISPLAY "resultan gaya"
+
+
+
+2. Tahun Kabisat
+
+Pseudocode :
+
+  STORE "tahun" with any number value
+  IF "tahun" mod 4 equal to 0, "tahun" mod 100 larger than 0
+    DISPLAY "Tahun Kabisat"
+  ELSE IF "tahun" mod 4 equal to 0, "tahun" mod 100 equal to 0, "tahun" mod 400 equal to 0
+    DISPLAY "Tahun Kabisat"
+  ELSE
+    DISPLAY "Bukan Tahun Kabisat"
+  ENDIF
+
+
+3. Laundry Day
+
+Pseudocode :
+
+  STORE "jumlah pakaian" with 20
+  STORE "jumlah pakaian dimasukkan " with 0
+
+  WHILE "jumlah pakaian" > 0
+    ADD "jumlah pakaian dimasukkan" by 1
+    REDUCE "jumlah pakaian" by 1
+  
+  DISPLAY "jumlah pakaian dimasukkan"
+  DO "nyalakan mesin cuci"
+
+
+
+4. Periksa Kuku
+
+Pseudocode :
+
+  STORE "jumlah siswa" with 40
+  STORE "i" with 1
+
+  WHILE "jumlah siswa" > 0
+    IF "siswa[i]" kuku panjang
+      DO "hukum siswa[i]"
+    ELSE
+      DO "puji siswa[i]"
+ADD "i" by 1
